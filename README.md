@@ -4,15 +4,15 @@ This repository contains my solutions to problems from the [Beecrowd](https://ww
 
 ## Difficulty Levels
 
-1. [Level 1: Very Easy](./Nivel_1) (In Progress...)
-2. [Level 2: Easy](./Nivel_2) (Future)
-3. [Level 3: Intermediate](./Nivel_3) (Future)
-4. [Level 4: Medium](./Nivel_4) (Future)
-5. [Level 5: Challenging](./Nivel_5) (Future)
-6. [Level 6: Hard](./Nivel_6) (Future)
-7. [Level 7: Very Hard](./Nivel_7) (Future)
-8. [Level 8: Extremely Hard](./Nivel_8) (Future)
-9. [Level 9: Ultimate Challenge](./Nivel_9) (Future)
+1. [Level 1: Very Easy](./Level_1) (In Progress...)
+2. [Level 2: Easy](./Level_2) (Future)
+3. [Level 3: Intermediate](./Level_3) (Future)
+4. [Level 4: Medium](./Level_4) (Future)
+5. [Level 5: Challenging](./Level_5) (Future)
+6. [Level 6: Hard](./Level_6) (Future)
+7. [Level 7: Very Hard](./Level_7) (Future)
+8. [Level 8: Extremely Hard](./Level_8) (Future)
+9. [Level 9: Ultimate Challenge](./Level_9) (Future)
 
 ## How to Navigate
 
