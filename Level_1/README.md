@@ -79,6 +79,81 @@ This directory contains solutions to level 1 problems on Beecrowd. These problem
 - Problem 1114: Fixed Password
   - ([problem_1114.py](./problem_1114.py))
   - ([problem_1114.java](./problem_1114.java))
+- Problem 1115: Quadrant
+  - ([problem_1115.py](./problem_1115.py))
+  - ([problem_1115.java](./problem_1115.java))
+- Problem 1116: Dividing X by Y
+  - ([problem_1116.py](./problem_1116.py))
+  - ([problem_1116.java](./problem_1116.java))
+- Problem 1117: Score Validation
+  - ([problem_1117.py](./problem_1117.py))
+  - ([problem_1117.java](./problem_1117.java))
+- Problem 1131: Grenais
+  - ([problem_1131.py](./problem_1131.py))
+  - ([problem_1131.java](./problem_1131.java))
+- Problem 1132: Multiples of 13
+  - ([problem_1132.py](./problem_1132.py))
+  - ([problem_1132.java](./problem_1132.java))
+- Problem 1134: Type of Fuel
+  - ([problem_1134.py](./problem_1134.py))
+  - ([problem_1134.java](./problem_1134.java))
+- Problem 1142: PUM
+  - ([problem_1142.py](./problem_1142.py))
+  - ([problem_1142.java](./problem_1142.java))
+- Problem 1143: Squared and Cubic
+  - ([problem_1143.py](./problem_1143.py))
+  - ([problem_1143.java](./problem_1143.java))
+- Problem 1144: Logical Sequence
+  - ([problem_1144.py](./problem_1144.py))
+  - ([problem_1144.java](./problem_1144.java))
+- Problem 1149: Summing Consecutive Integers
+  - ([problem_1149.py](./problem_1149.py))
+  - ([problem_1149.java](./problem_1149.java))
+- Problem 1150: Exceeding Z
+  - ([problem_1150.py](./problem_1150.py))
+  - ([problem_1150.java](./problem_1150.java))
+- Problem 1153: Simple Factorial
+  - ([problem_1153.py](./problem_1153.py))
+  - ([problem_1153.java](./problem_1153.java))
+- Problem 1154: Ages
+  - ([problem_1154.py](./problem_1154.py))
+  - ([problem_1154.java](./problem_1154.java))
+- Problem 1157: Divisors I
+  - ([problem_1157.py](./problem_1157.py))
+  - ([problem_1157.java](./problem_1157.java))
+- Problem 1158: Sum of Consecutive Odd Numbers III
+  - ([problem_1158.py](./problem_1158.py))
+  - ([problem_1158.java](./problem_1158.java))
+- Problem 1172: Array Replacement I
+  - ([problem_1172.py](./problem_1172.py))
+  - ([problem_1172.java](./problem_1172.java))
+- Problem 1173: Array fill I
+  - ([problem_1173.py](./problem_1173.py))
+  - ([problem_1173.java](./problem_1173.java))
+- Problem 1177: Array Fill II
+  - ([problem_1177.py](./problem_1177.py))
+  - ([problem_1177.java](./problem_1177.java))
+- Problem 1188: Inferior Area
+  - ([problem_1188.py](./problem_1188.py))
+  - ([problem_1188.java](./problem_1188.java))
+- Problem 1190: Right Area
+  - ([problem_1190.py](./problem_1190.py))
+  - ([problem_1190.java](./problem_1190.java))
+- Problem 1478: Square Matrix II
+  - ([problem_1478.py](./problem_1478.py))
+  - ([problem_1478.java](./problem_1478.java))
+- Problem 1534: Array 123
+  - ([problem_1534.py](./problem_1534.py))
+  - ([problem_1534.java](./problem_1534.java))
+- Problem 1557: Square Matrix III
+  - ([problem_1557.py](./problem_1557.py))
+  - ([problem_1557.java](./problem_1557.java))
+- Problem 1589: Bob Conduit
+  - ([problem_1589.py](./problem_1589.py))
+  - ([problem_1589.java](./problem_1589.java))
+- Problem 1759: Ho Ho Ho
+  - ([problem_1759.py](./problem_1759.py))
+  - ([problem_1759.java](./problem_1759.java))
 
 ## Contributions
 
