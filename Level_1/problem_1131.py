@@ -3,7 +3,7 @@ inter = 0
 gremio = 0
 contador = 0
 empate = 0
-vencedor = []
+vencedor = ""
 while True:
     if n == 1:
         x, y = map(int, input().split())
