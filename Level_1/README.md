@@ -5,155 +5,155 @@ This directory contains solutions to level 1 problems on Beecrowd. These problem
 ## Solved Problems
 
 - Problem 1003: Simple Sum 
-  - ([problem_1003.py](./problem_1003.py))
-  - ([problem_1003.java](./problem_1003.java)) 
+  - ([problem_1003.py](./problem_1003.py)) ✅
+  - ([problem_1003.java](./problem_1003.java)) ✅
 - Problem 1004: Simple Product 
-  - ([problem_1004.py](./problem_1004.py))
-  - ([problem_1004.java](./problem_1004.java)) 
+  - ([problem_1004.py](./problem_1004.py)) ✅
+  - ([problem_1004.java](./problem_1004.java)) ✅
 - Problem 1006: Average 2 
-  - ([problem_1006.py](./problem_1006.py))
-  - ([problem_1006.java](./problem_1006.java)) 
+  - ([problem_1006.py](./problem_1006.py)) ✅
+  - ([problem_1006.java](./problem_1006.java)) ✅
 - Problem 1007: Difference 
-  - ([problem_1007.py](./problem_1007.py))
-  - ([problem_1007.java](./problem_1007.java)) 
+  - ([problem_1007.py](./problem_1007.py)) ✅
+  - ([problem_1007.java](./problem_1007.java)) ✅
 - Problem 1014: Consumption 
-  - ([problem_1014.py](./problem_1014.py))
-  - ([problem_1014.java](./problem_1014.java)) 
+  - ([problem_1014.py](./problem_1014.py)) ✅
+  - ([problem_1014.java](./problem_1014.java)) ✅
 - Problem 1015: Distance Between Two Points 
-  - ([problem_1015.py](./problem_1015.py))
-  - ([problem_1015.java](./problem_1015.java)) 
+  - ([problem_1015.py](./problem_1015.py)) ✅
+  - ([problem_1015.java](./problem_1015.java)) ✅
 - Problem 1016: Distance 
-  - ([problem_1016.py](./problem_1016.py))
-  - ([problem_1016.java](./problem_1016.java))
+  - ([problem_1016.py](./problem_1016.py)) ✅
+  - ([problem_1016.java](./problem_1016.java)) ✅
 - Problem 1017: Fuel Spent
-  - ([problem_1017.py](./problem_1017.py))
-  - ([problem_1017.java](./problem_1017.java))
+  - ([problem_1017.py](./problem_1017.py)) ✅
+  - ([problem_1017.java](./problem_1017.java)) ✅
 - Problem 1019: Time Conversion
-  - ([problem_1019.py](./problem_1019.py))
-  - ([problem_1019.java](./problem_1019.java)) 
+  - ([problem_1019.py](./problem_1019.py)) ✅
+  - ([problem_1019.java](./problem_1019.java)) ✅
 - Problem 1038: Snack 
-  - ([problem_1038.py](./problem_1038.py))
-  - ([problem_1038.java](./problem_1038.java))
+  - ([problem_1038.py](./problem_1038.py)) ✅
+  - ([problem_1038.java](./problem_1038.java)) ✅
 - Problem 1059: Even Numbers 
-  - ([problem_1059.py](./problem_1059.py))
-  - ([problem_1059.java](./problem_1059.java)) 
+  - ([problem_1059.py](./problem_1059.py)) ✅
+  - ([problem_1059.java](./problem_1059.java)) ✅
 - Problem 1060:	Positive Numbers
-  - ([problem_1060.py](./problem_1060.py))
-  - ([problem_1060.java](./problem_1060.java)) 
+  - ([problem_1060.py](./problem_1060.py)) ✅
+  - ([problem_1060.java](./problem_1060.java)) ✅
 - Problem 1065: Even Between five Numbers
-  - ([problem_1065.py](./problem_1065.py))
-  - ([problem_1065.java](./problem_1065.java)) 
+  - ([problem_1065.py](./problem_1065.py)) ✅
+  - ([problem_1065.java](./problem_1065.java)) ✅
 - Problem 1066: Even, Odd, Positive and Negative
-  - ([problem_1066.py](./problem_1066.py))
-  - ([problem_1066.java](./problem_1066.java)) 
+  - ([problem_1066.py](./problem_1066.py)) ✅
+  - ([problem_1066.java](./problem_1066.java)) ✅
 - Problem 1070: Six Odd Numbers
-  - ([problem_1070.py](./problem_1070.py))
-  - ([problem_1070.java](./problem_1070.java)) 
+  - ([problem_1070.py](./problem_1070.py)) ✅
+  - ([problem_1070.java](./problem_1070.java)) ✅
 - Problem 1072: Interval 2 
-  - ([problem_1072.py](./problem_1072.py))
-  - ([problem_1072.java](./problem_1072.java)) 
+  - ([problem_1072.py](./problem_1072.py)) ✅
+  - ([problem_1072.java](./problem_1072.java)) ✅
 - Problem 1073: Even Square 
-  - ([problem_1073.py](./problem_1073.py))
-  - ([problem_1073.java](./problem_1073.java)) 
+  - ([problem_1073.py](./problem_1073.py)) ✅
+  - ([problem_1073.java](./problem_1073.java)) ✅
 - Problem 1078: Multiplication Table 
-  - ([problem_1078.py](./problem_1078.py))
-  - ([problem_1078.java](./problem_1078.java)) 
+  - ([problem_1078.py](./problem_1078.py)) ✅
+  - ([problem_1078.java](./problem_1078.java)) ✅
 - Problem 1079: Weighted Averages
-  - ([problem_1079.py](./problem_1079.py))
-  - ([problem_1079.java](./problem_1079.java)) 
+  - ([problem_1079.py](./problem_1079.py)) ✅
+  - ([problem_1079.java](./problem_1079.java)) ✅
 - Problem 1095: Sequence IJ 1
-  - ([problem_1095.py](./problem_1095.py))
-  - ([problem_1095.java](./problem_1095.java)) 
+  - ([problem_1095.py](./problem_1095.py)) ✅
+  - ([problem_1095.java](./problem_1095.java)) ✅
 - Problem 1096: Sequence IJ 2
-  - ([problem_1096.py](./problem_1096.py))
-  - ([problem_1096.java](./problem_1096.java)) 
+  - ([problem_1096.py](./problem_1096.py)) ✅
+  - ([problem_1096.java](./problem_1096.java)) ✅
 - Problem 1097: Sequence IJ 3
-  - ([problem_1097.py](./problem_1097.py))
-  - ([problem_1097.java](./problem_1097.java)) 
+  - ([problem_1097.py](./problem_1097.py)) ✅
+  - ([problem_1097.java](./problem_1097.java)) ✅
 - Problem 1099: Sum of Consecutive Odd Numbers II 
-  - ([problem_1099.py](./problem_1099.py))
-  - ([problem_1099.java](./problem_1099.java)) 
+  - ([problem_1099.py](./problem_1099.py)) ✅
+  - ([problem_1099.java](./problem_1099.java)) ✅
 - Problem 1113: Ascending and Descending 
-  - ([problem_1113.py](./problem_1113.py))
-  - ([problem_1113.java](./problem_1113.java))
+  - ([problem_1113.py](./problem_1113.py)) ✅
+  - ([problem_1113.java](./problem_1113.java)) ✅
 - Problem 1114: Fixed Password
-  - ([problem_1114.py](./problem_1114.py))
-  - ([problem_1114.java](./problem_1114.java))
+  - ([problem_1114.py](./problem_1114.py)) ✅
+  - ([problem_1114.java](./problem_1114.java)) ✅
 - Problem 1115: Quadrant
-  - ([problem_1115.py](./problem_1115.py))
-  - ([problem_1115.java](./problem_1115.java))
+  - ([problem_1115.py](./problem_1115.py)) ✅
+  - ([problem_1115.java](./problem_1115.java)) ✅
 - Problem 1116: Dividing X by Y
-  - ([problem_1116.py](./problem_1116.py))
-  - ([problem_1116.java](./problem_1116.java))
+  - ([problem_1116.py](./problem_1116.py)) ✅
+  - ([problem_1116.java](./problem_1116.java)) ✅
 - Problem 1117: Score Validation
-  - ([problem_1117.py](./problem_1117.py))
-  - ([problem_1117.java](./problem_1117.java))
+  - ([problem_1117.py](./problem_1117.py)) ✅ 
+  - ([problem_1117.java](./problem_1117.java)) ✅
 - Problem 1131: Grenais
-  - ([problem_1131.py](./problem_1131.py))
-  - ([problem_1131.java](./problem_1131.java))
+  - ([problem_1131.py](./problem_1131.py)) ✅
+  - ([problem_1131.java](./problem_1131.java)) ✅
 - Problem 1132: Multiples of 13
-  - ([problem_1132.py](./problem_1132.py))
-  - ([problem_1132.java](./problem_1132.java))
+  - ([problem_1132.py](./problem_1132.py)) ❌
+  - ([problem_1132.java](./problem_1132.java)) ❌
 - Problem 1134: Type of Fuel
-  - ([problem_1134.py](./problem_1134.py))
-  - ([problem_1134.java](./problem_1134.java))
+  - ([problem_1134.py](./problem_1134.py)) ❌
+  - ([problem_1134.java](./problem_1134.java)) ❌
 - Problem 1142: PUM
-  - ([problem_1142.py](./problem_1142.py))
-  - ([problem_1142.java](./problem_1142.java))
+  - ([problem_1142.py](./problem_1142.py)) ❌
+  - ([problem_1142.java](./problem_1142.java)) ❌
 - Problem 1143: Squared and Cubic
-  - ([problem_1143.py](./problem_1143.py))
-  - ([problem_1143.java](./problem_1143.java))
+  - ([problem_1143.py](./problem_1143.py)) ❌
+  - ([problem_1143.java](./problem_1143.java)) ❌
 - Problem 1144: Logical Sequence
-  - ([problem_1144.py](./problem_1144.py))
-  - ([problem_1144.java](./problem_1144.java))
+  - ([problem_1144.py](./problem_1144.py)) ❌
+  - ([problem_1144.java](./problem_1144.java)) ❌
 - Problem 1149: Summing Consecutive Integers
-  - ([problem_1149.py](./problem_1149.py))
-  - ([problem_1149.java](./problem_1149.java))
+  - ([problem_1149.py](./problem_1149.py)) ❌
+  - ([problem_1149.java](./problem_1149.java)) ❌
 - Problem 1150: Exceeding Z
-  - ([problem_1150.py](./problem_1150.py))
-  - ([problem_1150.java](./problem_1150.java))
+  - ([problem_1150.py](./problem_1150.py)) ❌
+  - ([problem_1150.java](./problem_1150.java)) ❌
 - Problem 1153: Simple Factorial
-  - ([problem_1153.py](./problem_1153.py))
-  - ([problem_1153.java](./problem_1153.java))
+  - ([problem_1153.py](./problem_1153.py)) ❌
+  - ([problem_1153.java](./problem_1153.java)) ❌
 - Problem 1154: Ages
-  - ([problem_1154.py](./problem_1154.py))
-  - ([problem_1154.java](./problem_1154.java))
+  - ([problem_1154.py](./problem_1154.py)) ❌
+  - ([problem_1154.java](./problem_1154.java)) ❌
 - Problem 1157: Divisors I
-  - ([problem_1157.py](./problem_1157.py))
-  - ([problem_1157.java](./problem_1157.java))
+  - ([problem_1157.py](./problem_1157.py)) ❌
+  - ([problem_1157.java](./problem_1157.java)) ❌
 - Problem 1158: Sum of Consecutive Odd Numbers III
-  - ([problem_1158.py](./problem_1158.py))
-  - ([problem_1158.java](./problem_1158.java))
+  - ([problem_1158.py](./problem_1158.py)) ❌
+  - ([problem_1158.java](./problem_1158.java)) ❌
 - Problem 1172: Array Replacement I
-  - ([problem_1172.py](./problem_1172.py))
-  - ([problem_1172.java](./problem_1172.java))
+  - ([problem_1172.py](./problem_1172.py)) ❌
+  - ([problem_1172.java](./problem_1172.java)) ❌
 - Problem 1173: Array fill I
-  - ([problem_1173.py](./problem_1173.py))
-  - ([problem_1173.java](./problem_1173.java))
+  - ([problem_1173.py](./problem_1173.py)) ❌
+  - ([problem_1173.java](./problem_1173.java)) ❌
 - Problem 1177: Array Fill II
-  - ([problem_1177.py](./problem_1177.py))
-  - ([problem_1177.java](./problem_1177.java))
+  - ([problem_1177.py](./problem_1177.py)) ❌
+  - ([problem_1177.java](./problem_1177.java)) ❌
 - Problem 1188: Inferior Area
-  - ([problem_1188.py](./problem_1188.py))
-  - ([problem_1188.java](./problem_1188.java))
-- Problem 1190: Right Area
-  - ([problem_1190.py](./problem_1190.py))
-  - ([problem_1190.java](./problem_1190.java))
+  - ([problem_1188.py](./problem_1188.py)) ❌
+  - ([problem_1188.java](./problem_1188.java)) ❌
+- Problem 1190: Right Area 
+  - ([problem_1190.py](./problem_1190.py)) ❌
+  - ([problem_1190.java](./problem_1190.java)) ❌
 - Problem 1478: Square Matrix II
-  - ([problem_1478.py](./problem_1478.py))
-  - ([problem_1478.java](./problem_1478.java))
+  - ([problem_1478.py](./problem_1478.py)) ❌
+  - ([problem_1478.java](./problem_1478.java)) ❌
 - Problem 1534: Array 123
-  - ([problem_1534.py](./problem_1534.py))
-  - ([problem_1534.java](./problem_1534.java))
+  - ([problem_1534.py](./problem_1534.py)) ❌
+  - ([problem_1534.java](./problem_1534.java)) ❌
 - Problem 1557: Square Matrix III
-  - ([problem_1557.py](./problem_1557.py))
-  - ([problem_1557.java](./problem_1557.java))
+  - ([problem_1557.py](./problem_1557.py)) ❌
+  - ([problem_1557.java](./problem_1557.java)) ❌
 - Problem 1589: Bob Conduit
-  - ([problem_1589.py](./problem_1589.py))
-  - ([problem_1589.java](./problem_1589.java))
+  - ([problem_1589.py](./problem_1589.py)) ❌
+  - ([problem_1589.java](./problem_1589.java)) ❌
 - Problem 1759: Ho Ho Ho
-  - ([problem_1759.py](./problem_1759.py))
-  - ([problem_1759.java](./problem_1759.java))
+  - ([problem_1759.py](./problem_1759.py)) ❌
+  - ([problem_1759.java](./problem_1759.java)) ❌
 
 ## Contributions
 
