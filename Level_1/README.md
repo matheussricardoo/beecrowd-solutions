@@ -92,29 +92,29 @@ This directory contains solutions to level 1 problems on Beecrowd. These problem
   - ([problem_1131.py](./problem_1131.py)) ✅
   - ([problem_1131.java](./problem_1131.java)) ✅
 - Problem 1132: Multiples of 13
-  - ([problem_1132.py](./problem_1132.py)) ❌
-  - ([problem_1132.java](./problem_1132.java)) ❌
+  - ([problem_1132.py](./problem_1132.py)) ✅
+  - ([problem_1132.java](./problem_1132.java)) ✅
 - Problem 1134: Type of Fuel
-  - ([problem_1134.py](./problem_1134.py)) ❌
-  - ([problem_1134.java](./problem_1134.java)) ❌
+  - ([problem_1134.py](./problem_1134.py)) ✅
+  - ([problem_1134.java](./problem_1134.java)) ✅
 - Problem 1142: PUM
-  - ([problem_1142.py](./problem_1142.py)) ❌
-  - ([problem_1142.java](./problem_1142.java)) ❌
+  - ([problem_1142.py](./problem_1142.py)) ✅
+  - ([problem_1142.java](./problem_1142.java)) ✅
 - Problem 1143: Squared and Cubic
-  - ([problem_1143.py](./problem_1143.py)) ❌
-  - ([problem_1143.java](./problem_1143.java)) ❌
+  - ([problem_1143.py](./problem_1143.py)) ✅
+  - ([problem_1143.java](./problem_1143.java)) ✅
 - Problem 1144: Logical Sequence
-  - ([problem_1144.py](./problem_1144.py)) ❌
-  - ([problem_1144.java](./problem_1144.java)) ❌
+  - ([problem_1144.py](./problem_1144.py)) ✅
+  - ([problem_1144.java](./problem_1144.java)) ✅
 - Problem 1149: Summing Consecutive Integers
-  - ([problem_1149.py](./problem_1149.py)) ❌
-  - ([problem_1149.java](./problem_1149.java)) ❌
+  - ([problem_1149.py](./problem_1149.py)) ✅
+  - ([problem_1149.java](./problem_1149.java)) ✅
 - Problem 1150: Exceeding Z
-  - ([problem_1150.py](./problem_1150.py)) ❌
-  - ([problem_1150.java](./problem_1150.java)) ❌
+  - ([problem_1150.py](./problem_1150.py)) ✅
+  - ([problem_1150.java](./problem_1150.java)) ✅
 - Problem 1153: Simple Factorial
-  - ([problem_1153.py](./problem_1153.py)) ❌
-  - ([problem_1153.java](./problem_1153.java)) ❌
+  - ([problem_1153.py](./problem_1153.py)) ✅
+  - ([problem_1153.java](./problem_1153.java)) ✅
 - Problem 1154: Ages
   - ([problem_1154.py](./problem_1154.py)) ❌
   - ([problem_1154.java](./problem_1154.java)) ❌
