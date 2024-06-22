@@ -116,23 +116,23 @@ This directory contains solutions to level 1 problems on Beecrowd. These problem
   - ([problem_1153.py](./problem_1153.py)) ✅
   - ([problem_1153.java](./problem_1153.java)) ✅
 - Problem 1154: Ages
-  - ([problem_1154.py](./problem_1154.py)) ❌
-  - ([problem_1154.java](./problem_1154.java)) ❌
+  - ([problem_1154.py](./problem_1154.py)) ✅
+  - ([problem_1154.java](./problem_1154.java)) ✅
 - Problem 1157: Divisors I
-  - ([problem_1157.py](./problem_1157.py)) ❌
-  - ([problem_1157.java](./problem_1157.java)) ❌
+  - ([problem_1157.py](./problem_1157.py)) ✅
+  - ([problem_1157.java](./problem_1157.java)) ✅
 - Problem 1158: Sum of Consecutive Odd Numbers III
-  - ([problem_1158.py](./problem_1158.py)) ❌
-  - ([problem_1158.java](./problem_1158.java)) ❌
+  - ([problem_1158.py](./problem_1158.py)) ✅
+  - ([problem_1158.java](./problem_1158.java)) ✅
 - Problem 1172: Array Replacement I
-  - ([problem_1172.py](./problem_1172.py)) ❌
-  - ([problem_1172.java](./problem_1172.java)) ❌
+  - ([problem_1172.py](./problem_1172.py)) ✅
+  - ([problem_1172.java](./problem_1172.java)) ✅
 - Problem 1173: Array fill I
-  - ([problem_1173.py](./problem_1173.py)) ❌
-  - ([problem_1173.java](./problem_1173.java)) ❌
+  - ([problem_1173.py](./problem_1173.py)) ✅
+  - ([problem_1173.java](./problem_1173.java)) ✅
 - Problem 1177: Array Fill II
-  - ([problem_1177.py](./problem_1177.py)) ❌
-  - ([problem_1177.java](./problem_1177.java)) ❌
+  - ([problem_1177.py](./problem_1177.py)) ✅
+  - ([problem_1177.java](./problem_1177.java)) ✅
 - Problem 1188: Inferior Area
   - ([problem_1188.py](./problem_1188.py)) ❌
   - ([problem_1188.java](./problem_1188.java)) ❌
