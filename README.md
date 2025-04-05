@@ -48,4 +48,10 @@ File names follow the official problem number on the [Beecrowd](https://www.beec
   </a>
 </div>
 
+### 📄 License | Licença
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/> </div>
