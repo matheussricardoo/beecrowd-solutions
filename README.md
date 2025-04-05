@@ -1,31 +1,51 @@
-# Beecrowd Solutions
+<div align="center">
 
-This repository contains my solutions to problems from the [Beecrowd](https://www.beecrowd.com.br/) website. The problems are categorized into different levels of difficulty to facilitate navigation and challenge selection. Feel free to explore and use these solutions as a reference.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Beecrowd%20Solutions&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Resoluções%20de%20problemas%20Beecrowd%20por%20nível&descAlignY=60&descSize=18"/>
 
-## Difficulty Levels
-
-1. [Level 1: Very Easy](./Level_1) (In Progress...)
-2. [Level 2: Easy](./Level_2) (Future)
-3. [Level 3: Intermediate](./Level_3) (Future)
-4. [Level 4: Medium](./Level_4) (Future)
-5. [Level 5: Challenging](./Level_5) (Future)
-6. [Level 6: Hard](./Level_6) (Future)
-7. [Level 7: Very Hard](./Level_7) (Future)
-8. [Level 8: Extremely Hard](./Level_8) (Future)
-9. [Level 9: Ultimate Challenge](./Level_9) (Future)
-
-## How to Navigate
-
-Each directory contains solutions for problems of the corresponding difficulty level. Each file is named according to the problem number on Beecrowd.
-
-## Contribution
-
-Contributions are welcome! If you have a better solution or a different approach to any of the problems, feel free to fork the repository and submit a pull request.
-
-## Contact
-
-If you have any questions or suggestions, feel free to get in touch.
+<p align="center">
+  <i>🧠 A collection of solutions for Beecrowd problems, organized by difficulty level.</i><br>
+  <i>🧠 Uma coleção de soluções para os problemas do Beecrowd, organizadas por nível de dificuldade.</i>
+</p>
 
 ---
 
-This repository is maintained by Matheus Ricardo (https://github.com/matheussricardoo).
+### 🎯 Níveis de Dificuldade | Difficulty Levels
+
+<div align="center">
+
+| Level | Status | Description |
+|:-----:|:------:|:------------|
+| 🟢 Level 1 | 🚧 In Progress | Very Easy |
+| ⚪ Level 2 | 🔒 Future | Easy |
+| ⚪ Level 3 | 🔒 Future | Intermediate |
+| ⚪ Level 4 | 🔒 Future | Medium |
+| ⚪ Level 5 | 🔒 Future | Challenging |
+| ⚪ Level 6 | 🔒 Future | Hard |
+| ⚪ Level 7 | 🔒 Future | Very Hard |
+| ⚪ Level 8 | 🔒 Future | Extremely Hard |
+| ⚪ Level 9 | 🔒 Future | Ultimate Challenge |
+
+</div>
+
+---
+
+### 📁 Navegação | Navigation
+
+Cada diretório representa um nível de dificuldade e contém arquivos com as soluções dos respectivos problemas.  
+Os nomes dos arquivos seguem a numeração oficial dos problemas no [Beecrowd](https://www.beecrowd.com.br/).
+
+Each directory represents a difficulty level and contains files with the corresponding problem solutions.  
+File names follow the official problem number on the [Beecrowd](https://www.beecrowd.com.br/) website.
+
+### 👤 Author | Autor
+
+<div align="center">
+  <a href="https://github.com/matheussricardoo" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/matheus-ricardo-426452266/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+  </a>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/> </div>
